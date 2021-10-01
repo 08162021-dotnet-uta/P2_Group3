@@ -5,7 +5,12 @@ h2 {
   text-align: center;
 }
 
-.heroes-menu {
+h3:hover {
+  color: #ff0000;
+  font-size: 22px;
+}
+
+  .heroes-menu {
   padding: 0;
   margin: auto;
   max-width: 1000px;
@@ -29,6 +34,7 @@ h2 {
 
 a:hover {
   background-color: #000;
+  font-size: 100px;
 }
 
 /*new addition form games display*/
